@@ -1,5 +1,4 @@
-//Q1) print good morning and welcome repeatedly using tread
-//Q2) make welcome sleep by sleep method
+
 
 
 
