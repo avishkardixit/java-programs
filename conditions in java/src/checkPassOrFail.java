@@ -8,7 +8,7 @@ public class checkPassOrFail
     {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("enter the marks Of enlish math scinece :");
+        System.out.println("enter the marks Of english math scinece :");
         int eng =sc.nextInt();
         int math = sc.nextInt();
         int sci =sc.nextInt();
